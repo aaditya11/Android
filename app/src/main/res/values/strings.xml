@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrimeScreen</string>
+    <string name="All_Products">All Products</string>
+
+    <string-array name="product_array">
+        <item>All</item>
+        <item>T-CUP</item>
+        <item>Dip Card</item>
+    </string-array>
+</resources>
